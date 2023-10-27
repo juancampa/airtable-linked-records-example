@@ -1,0 +1,14 @@
+{
+  "schema": {
+    "types": [
+      {
+        "name": "Root",
+        "actions": []
+      }
+    ]
+  },
+  "dependencies": {
+    "emailTable": "airtable:tables.one(id:\"tblC4HzUk1lvcl8cU\")",
+    "peopleTable": "airtable:tables.one(id:\"tblPHbCH7VpE2YUUK\")"
+  }
+}
